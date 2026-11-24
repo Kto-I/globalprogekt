@@ -1,17 +1,26 @@
 body {
-    h1:hover { animation: color-change 3s infinite; }
     font-family: Arial,  sans-serif; /* Семейство шрифтов */
-    font-size: 24px; /* Размер основного шрифта в <p></p>  */
-    background-color: #ffffff; /* Цвет фона веб-страницы */
-    color: #000000; /* Цвет основного текста */ 
+    font-size: 20px; /* Размер основного шрифта в <p></p>  */
+    background-color: #000000; /* Цвет фона веб-страницы */
+    color: #ffffff; /* Цвет основного текста */ 
 }
 h1 {
-    color: #000000; /* Цвет заголовка */
-    font-size: 40x; /* Размер шрифта в пунктах */
+    color: #ffffff; /* Цвет заголовка */
+    font-size: 35px; /* Размер шрифта в пунктах */
     font-family: Georgia, serif; /* Семейство шрифтов */
 }
 h2{
-    color: #000000; /* Цвет заголовка */
+    color: #ffffff; /* Цвет заголовка */
     font-size: 30px; /* Размер шрифта в пунктах */
+    font-family: Georgia, serif; /* Семейство шрифтов */
+}
+h3{
+    color: #ffffff; /* Цвет заголовка */
+    font-size: 24px; /* Размер шрифта в пунктах */
+    font-family: Georgia, serif; /* Семейство шрифтов */
+}
+li{
+    color: #ffffff; /* Цвет заголовка */
+    font-size: 20px; /* Размер шрифта в пунктах */
     font-family: Georgia, serif; /* Семейство шрифтов */
 }
